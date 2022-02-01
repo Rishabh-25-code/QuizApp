@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quizie</string>
+    <string name="question">TextView</string>
+    <string name="topic">Facts</string>
+    <string name="falseButton">False</string>
+    <string name="trueButton">True</string>
+    <string name="questionNumber">1</string>
+    <string name="resetButton">Restart</string>
+    <string name="q1">1. Prince Harry is taller than Prince William</string>
+    <string name="q2">2. The star sign Aquarius is represented by a tiger</string>
+    <string name="q3">3. Meryl Streep has won two Academy Awards</string>
+    <string name="q4">4. Marrakesh is the capital of Morocco</string>
+    <string name="q5">5. Idina Menzel sings \'let it go\' 20 times in \'Let It Go\' from Frozen</string>
+    <string name="q6">6. Waterloo has the greatest number of tube platforms in London</string>
+    <string name="q7">7. M&amp;M stands for Mars and Moordale</string>
+    <string name="q8">8. Gin is typically included in a Long Island Iced Tea</string>
+    <string name="q9">9. The unicorn is the national animal of Scotland</string>
+    <string name="q10">10.There are two parts of the body that can\'t heal themselves</string>
+
+</resources>
